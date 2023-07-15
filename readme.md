@@ -3,6 +3,7 @@
 Features:
 
 >> Solves each time you get a new word
+
 >> Prints to console and an alert box
 
 Site: [Wordle Unlimited](https://wordleunlimited.org)
